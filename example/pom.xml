@@ -11,6 +11,7 @@
     <modules>
         <module>mylock06</module>
         <module>add10k01</module>
+        <module>iostate</module>
     </modules>
 
 
